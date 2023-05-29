@@ -17,7 +17,7 @@ export function Contacto() {
           padding: "30px",
         }}
       >
-        <div className="container-sm text-center ">
+        <div id="contacto" className="container-sm text-center ">
           <h1 className="font-weight-bold display-3">Contacto</h1>
           <div className="row p-lg-4">
             <div className="col-sm-16 col-md-6 text-center ">
