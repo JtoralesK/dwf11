@@ -1,0 +1,36 @@
+.footer{
+    min-height: 120px;
+    line-height: 7px;
+    text-align: center;
+    font-size: 22px;
+
+    padding-top: 45px;
+    background-color: #212121;
+    
+}
+
+.contenedor-footer {
+    display: flex;
+    flex-direction: column;
+    justify-content:center;
+    align-content: center;
+    margin: 0 auto;
+    
+  }
+  .footer-text{
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 10px;
+  }
+  .title-copy {
+    text-align: center;
+    font-size: 26px;
+    font-weight: 300;
+  }
+  .title-footer{
+    text-decoration: none;
+    color: rgb(252, 136, 136);
+    margin-left: 5px;
+  }

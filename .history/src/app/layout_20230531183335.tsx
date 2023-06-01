@@ -15,7 +15,7 @@ export default function RootLayout({
 }) {
   return (
     <html lang="en">
-      
+      <script src="https://kit.fontawesome.com/bdbed0aafa.js"></script>
       <body className={inter.className}>{children}</body>
     </html>
   )
