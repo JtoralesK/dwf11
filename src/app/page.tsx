@@ -1,12 +1,20 @@
 import Image from "next/image";
-import styles from "./page.module.css";
+import "./page.module.css";
 import { Contacto } from "./components/contacto";
-import { Footer } from "./components/footer"; 
+import { Tutores } from "./components/Tutores";
+import { Acerda } from "./components/Acerca-de";
+import { Talleres } from "./components/Talleres";
+import { Novedades } from "./components/Novedades";
+
 export default function Home() {
   return (
     <>
+      <Acerda/>
+      <Talleres/>
+      <Tutores/>
+      <Novedades />
       <Contacto />
-      <Footer/>
+   
     </>
   );
 }
