@@ -1,0 +1,32 @@
+
+/*- Quienes somos -*/
+.quienesSomos{
+    height: 60vh;
+    padding: 30px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    text-align: center;
+    background-color: rgb(255, 185, 35);
+    margin: 0 auto;
+  }
+  @media (max-width:678px) {
+   .quienesSomos{
+    height: 100vh;
+   }
+  }
+  
+  .titleQuienesSomos{
+    color: #fff;
+    font-size: calc(1.525rem + 3.3vw);
+    font-weight: 300;
+    line-height: 1.2;
+  }
+  
+  .descriptionQuienesSomos{
+    font-size: 22px;
+    color: #fff;
+    margin-top: 30px;
+  }
+  
