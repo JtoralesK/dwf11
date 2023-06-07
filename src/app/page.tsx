@@ -1,4 +1,5 @@
 import Image from "next/image";
+
 import "./page.module.css";
 import { Contacto } from "./components/contacto";
 import { Tutores } from "./components/Tutores";
@@ -9,12 +10,11 @@ import { Novedades } from "./components/Novedades";
 export default function Home() {
   return (
     <>
-      <Acerda/>
-      <Talleres/>
-      <Tutores/>
+      <Acerda />
+      <Talleres />
+      <Tutores />
       <Novedades />
       <Contacto />
-   
     </>
   );
 }
