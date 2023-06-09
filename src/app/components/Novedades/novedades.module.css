@@ -1,0 +1,35 @@
+.features__container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: space-around;
+  background-color: white;
+  height: 100vh;
+}
+.features_titles__container {
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  margin-left: 10%;
+  margin-right: 10%;
+  align-items: center;
+}
+.features__heading {
+}
+.features__subtitle {
+}
+.workshop__container {
+  width: 100%;
+  display: flex;
+  justify-content: space-around;
+}
+.workshop__img {
+  width: 100px;
+  height: 100px;
+}
+@media (min-width: 768px) {
+  .workshop__img {
+    width: 150px;
+    height: 150px;
+  }
+}

@@ -15,7 +15,7 @@ export function NavBar() {
         <ul className="nav">
           <li className="nav-item">
             <a
-              className="nav-link text-light"
+              className="nav-link text-black"
               aria-current="page"
               href="#acercade"
             >
@@ -23,12 +23,12 @@ export function NavBar() {
             </a>
           </li>
           <li className="nav-item">
-            <a className="nav-link text-light" href="#talleres">
+            <a className="nav-link text-black" href="#talleres">
               Talleres
             </a>
           </li>
           <li className="nav-item">
-            <a className="nav-link text-light" href="#contacto">
+            <a className="nav-link text-black" href="#contacto">
               Contacto
             </a>
           </li>

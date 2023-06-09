@@ -3,7 +3,7 @@ import css from "./talleres.module.css";
 
 export const Talleres = () => {
   return (
-    <section className={css.sectionTalleres}>
+    <section className={css.sectionTalleres} id="talleres">
       <div className="container-sm">
         <h2 className={css.titleTalleres}>Talleres</h2>
         <div className={css.containerCardTalleres}>

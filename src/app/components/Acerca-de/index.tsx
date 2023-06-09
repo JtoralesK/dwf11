@@ -2,9 +2,9 @@ import React from "react";
 import "bootstrap/dist/css/bootstrap.min.css";
 
 import css from "./acercaDe.module.css";
-export const Acerda = () => {
+export const Acerca = () => {
   return (
-    <section className={css.quienesSomos}>
+    <section className={css.quienesSomos} id="acercade">
       <div className="container-sm">
         <h2 className={css.titleQuienesSomos}>Quienes Somos</h2>
         <p className={css.descriptionQuienesSomos}>
