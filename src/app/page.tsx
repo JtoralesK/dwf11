@@ -3,7 +3,7 @@ import { Home } from "./components/Home";
 import { Contacto } from "./components/contacto";
 import { Tutores } from "./components/Tutores";
 import { Acerca } from "./components/Acerca-de";
-import { Talleres } from "./components/Talleres";
+import { Talleres } from "./components/Talleres/index";
 import { Novedades } from "./components/Novedades";
 
 export default function App() {
