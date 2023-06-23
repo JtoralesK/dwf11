@@ -14,6 +14,7 @@ export const Talleres = () => {
                 img={e.img}
                 descripcion={e.descripcion}
                 title={e.title}
+                link={e.link}
               ></Card>
             );
           })}

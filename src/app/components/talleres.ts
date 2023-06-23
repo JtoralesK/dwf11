@@ -1,30 +1,42 @@
 export const ArrTalleres = [
   {
     id: 1,
-    img: "http://3.bp.blogspot.com/-Fq2d0zFH_yM/TiOquw7WubI/AAAAAAAAAAo/fAN9mykU8J0/s748/DSC08719.JPG",
-    title: "Taller de Artes El Estudio",
+    img: "https://us.123rf.com/450wm/dianazh/dianazh1801/dianazh180100308/93605206-accesorios-de-costura-de-colores.jpg?ver=6",
+    title: "Taller de telas",
     descripcion:
-      "DIBUJO - PINTURA - ESCULTURA - GRABADO - FILETEADO PORTEÑO - AEROGRAFIA -  PIANO - TALLA EN MADERA - TAPIZ",
+      "Un espacio diseñado para aprender, inspirarse y animarse a trabajar con telas.",
+    link: "https://blog.trapitos.com.ar/taller-de-telas",
   },
   {
     id: 2,
-    img: "https://scontent.faep6-1.fna.fbcdn.net/v/t39.30808-6/346808538_620254850159298_1229470801674586750_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=8bfeb9&_nc_eui2=AeFCMF2ndDmlB01Xq13qN3YPsqj9h08Tsb-yqP2HTxOxv3FHQobvt5POHluNxuegHvT8GkWEGyMGKGGtlxU4b6Bb&_nc_ohc=SEShvB4H82EAX901Q9h&_nc_ht=scontent.faep6-1.fna&oh=00_AfDr6O3W1kzclJ-oFzk_pIZdxXnvHf4P-q-g5chBIqm7bw&oe=648DABBF",
-    title: "Taller de escultura en Museo Carnacini",
+    img: "https://www.sanisidro.gob.ar/sites/default/files/img/styles/tarjeta_vertical/public/pintura_funck_0.jpg?itok=4Et8-xkq",
+    title: "Curso y Talleres",
     descripcion:
-      "Taller abierto a la comunidad, con la intención de acercar una experiencia única que es el modelado en arcilla con modelo vivo a la gente.",
+      "En modalidad online y presencial. Idiomas, oficios, música, teatro, redes sociales, finanzas, pintura, deportes y mucho más.",
+    link: "https://www.sanisidro.gob.ar/cursos-y-talleres",
   },
   {
     id: 3,
-    img: "https://wordpress972997149.files.wordpress.com/2018/11/cropped-arte-musica1.jpg",
-    title: "Taller de música",
+    img: "https://www.mentesactuales.com/web/image/slide.channel/1/image_1920/Tango%20Gesti%C3%B3n%20-%20nivel%20inicial?unique=ed1c6ab",
+    title: "Tango Gestión - nivel inicial",
     descripcion:
-      "aprende a tocar un instrumento o a cantar en nuestro taller de música. Tenemos clases individuales y grupales para todos los niveles.",
+      "Te invitamos a participar de manera totalmente gratuita en este curso nivel inicial de Tango Gestión.",
+    link: "https://www.mentesactuales.com/en/slides/tango-gestion-nivel-inicial-1",
   },
   {
     id: 4,
-    img: "https://wordpress972997149.files.wordpress.com/2018/11/cropped-arte-musica1.jpg",
-    title: "Taller de música",
+    img: "https://mirror1.cdn.net.ar/mirror1/2022/08/mirror1/images/05/99/59972_3955ae93ef014eb2819aca81011105129406bb6adf39f1389375ecf680d1fb98/sm.webp",
+    title: "Taller de Folklore y Expresión 2023",
     descripcion:
-      "aprende a tocar un instrumento o a cantar en nuestro taller de música. Tenemos clases individuales y grupales para todos los niveles.",
+      "Bases rítmicas latinoamericanas para ir, progresivamente, encontrando el pulso, el paso y las figuras de nuestras danzas nativas y tradicionales.",
+    link: "https://fcefyn.unc.edu.ar/facultad/secretarias/extension/direccion-de-cultura/taller-de-folklore-y-expresion-2023/",
+  },
+  {
+    id: 5,
+    img: "https://www.unpaz.edu.ar/sites/default/files/styles/img_interna_desktop_/public/2020-07/2020-07-20%20Portada%20extensio%CC%80n3-01.jpg?itok=U_YBNsYJ",
+    title: "Actividades-gratuitas",
+    descripcion:
+      "Bienestar-Voluntariado-Vinculación-Comunidad-Talleres-Idiomas-Deportes",
+    link: "https://www.unpaz.edu.ar/extension/cursos-y-talleres/actividades-gratuitas",
   },
 ];
