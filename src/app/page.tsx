@@ -1,7 +1,7 @@
 import "./page.module.css";
 import { Home } from "./components/Home";
 import { Contacto } from "./components/contacto";
-import { Tutores } from "./components/Tutores";
+import { SectionCarousel } from "./components/Carousel";
 import { Acerca } from "./components/Acerca-de";
 import { Talleres } from "./components/Talleres/index";
 import { Novedades } from "./components/Novedades";
@@ -12,7 +12,7 @@ export default function App() {
       <Home />
       <Acerca />
       <Talleres />
-      <Tutores />
+      <SectionCarousel />
       <Novedades />
       <Contacto />
     </>

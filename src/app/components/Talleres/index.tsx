@@ -16,6 +16,7 @@ export const Talleres = () => {
                 descripcion={e.descripcion}
                 title={e.title}
                 link={e.link}
+                key={e.id}
               ></Card>
             );
           })}

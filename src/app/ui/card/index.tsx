@@ -9,7 +9,7 @@ type Prop = {
 };
 export const Card = (p: Prop) => {
   const openNewTab = (link: string) => {
-    window.open(link); // Reemplaza con la URL de la página que deseas abrir en una nueva pestaña
+    window.open(link);
   };
   return (
     <>
