@@ -1,3 +1,4 @@
+"use client";
 import "./page.module.css";
 import { Home } from "./components/Home";
 import { Contacto } from "./components/contacto";

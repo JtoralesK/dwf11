@@ -4,7 +4,7 @@ export function SectionInputs() {
   const style = {
     margin: "20px 0",
     width: "40%",
-    "@media (min-width: 768px)": {
+    "@media (minWidth: 768px)": {
       width: "40%",
     },
   } as React.CSSProperties;
