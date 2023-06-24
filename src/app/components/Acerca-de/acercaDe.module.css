@@ -1,7 +1,7 @@
 
 /*- Quienes somos -*/
 .quienesSomos{
-    height: 60vh;
+    height: 65vh;
     padding: 30px;
     display: flex;
     justify-content: center;
@@ -13,7 +13,7 @@
   }
   @media (max-width:678px) {
    .quienesSomos{
-    height: 100vh;
+    height: 110vh;
    }
   }
   

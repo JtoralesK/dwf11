@@ -4,7 +4,7 @@
   align-items: center;
   justify-content: space-around;
   background-color: white;
-  height: 100vh;
+  height: 60vh;
 }
 .features_titles__container {
   text-align: center;
@@ -28,5 +28,8 @@
   .workshop__img {
     width: 150px;
     height: 150px;
+  }
+  .features__container {
+    height: 90vh;
   }
 }

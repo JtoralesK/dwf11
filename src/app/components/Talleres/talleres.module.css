@@ -6,6 +6,7 @@
     flex-direction: column;
     padding: 30px;
   }
+  
   .titleTalleres{
     font-size: calc(1.525rem + 3.3vw);
     font-weight: 300;
@@ -60,6 +61,7 @@
     margin: 0 auto;
     border-radius: 5px;
   }
+ 
   .cardTalleres h3{
     font-size: 28px;
     margin-top: 10px;

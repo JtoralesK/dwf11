@@ -30,11 +30,16 @@
 }
 
 .cardTalleres img {
-  width: 200px;
+  width: 250px;
   aspect-ratio: 1/1;
   object-fit: cover;
   margin: 0 auto;
   border-radius: 5px;
+}
+@media (min-width: 678px) {
+  .cardTalleres img {
+    width: 200px;
+  }
 }
 .cardTalleres h3 {
   text-align: center;
