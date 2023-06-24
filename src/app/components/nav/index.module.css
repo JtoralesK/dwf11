@@ -1,0 +1,10 @@
+.navbar {
+    display: initial;
+  }
+  
+  /* Consulta de medios para pantallas con un ancho máximo de 678px */
+  @media (max-width: 678px) {
+    .navbar {
+      display: none;
+    }
+  }
